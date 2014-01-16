@@ -28,3 +28,7 @@ flushcdn.exe username=asikome password=p@ssw0rd vhost=mydomain.maestropanel.com 
 Reference:
 ============
 http://manage.cubecdn.net/pdf/apidocs.pdf
+
+Download:
+============
+http://repo.maestropanel.com/A1/flushcdn.zip
