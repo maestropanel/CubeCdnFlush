@@ -112,7 +112,6 @@
             Console.WriteLine();
             Console.WriteLine("Example:");
             Console.WriteLine("flushcdn.exe username=asikome password=p@ssw0rd vhost=mydomain.maestropanel.com path=C:\\packages\\website prefix=/myfile/");
-
         }
 
         private class Args
@@ -135,7 +134,6 @@
                 LocalPath = getArgument("path");
                 Prefix = getArgument("prefix");
             }
-
 
             public bool isParameterMissing()
             {
